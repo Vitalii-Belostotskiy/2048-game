@@ -1,4 +1,4 @@
-# 2048 game
+# FateBlocks
 
 > A brief description of the project:
  - 2048 is an easy and fun puzzle game. Even if you don't love numbers you  will love this game.
